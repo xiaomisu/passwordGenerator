@@ -9,14 +9,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@react-buddy/ide-toolbox": "^2.3.0",
+    "@react-buddy/palette-antd": "^4.2.0",
     "antd": "^4.22.3",
     "eslint": "^8.21.0",
     "postcss-px-to-viewport": "^1.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sass": "^1.54.2",
-    "@react-buddy/ide-toolbox": "^2.3.0",
-    "@react-buddy/palette-antd": "^4.2.0"
+    "react-toastify": "^9.1.1",
+    "sass": "^1.54.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.15",
