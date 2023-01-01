@@ -8,6 +8,7 @@
     "build": "tsc && vite build",
     "preview": "vite preview"
   },
+
   "dependencies": {
     "@react-buddy/ide-toolbox": "^2.3.0",
     "@react-buddy/palette-antd": "^4.2.0",
